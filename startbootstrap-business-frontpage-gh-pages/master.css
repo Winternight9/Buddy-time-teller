@@ -1,0 +1,76 @@
+.control {
+    display: inline;
+}
+
+#img {
+    text-align: center;
+    margin-left: 40px;
+}
+
+
+.prison-name {
+    margin-top: 15px;
+    text-align: center;
+}
+
+.prison-id {
+    margin-top: 6px;
+    text-align: center;
+}
+
+#title {
+    text-align: center;
+    margin: 60px 20px;
+    border: 3px solid blue;
+    padding: 10px;
+}
+
+#chat {
+    border: 3px solid gray;
+    width: 40vw;
+    height: 60vh;
+    margin-left: 30vw;
+    margin-top: 5vh;
+    overflow: scroll;
+    margin-bottom: 10px;
+}
+
+#input {
+    width: 40vw;
+    height: 30px;
+
+    margin-top: 20px;
+    margin-left: 30vw
+}
+
+#likebutton {
+    margin: 0 auto;
+    text-align: center
+}
+
+
+.submitbox {
+    padding-bottom: 20px;
+
+}
+#bg-img {
+    background: url("498374-PHF2JW-633.jpg")
+}
+
+#bg-img-chat2{
+    background: url("498374-PHF2JW-633.jpg")
+
+}
+
+#setting{
+    width: 20vw;
+    height: 30px;
+
+    margin-top: 20px;
+    margin-left: 20px
+}
+
+body{
+    background-color: rgb(247, 205, 205);
+
+}
